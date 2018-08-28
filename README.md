@@ -1,8 +1,6 @@
 # Treasury
 
-A certain part of the reward from each block is allocated for the Ethersocial Team to fund the further development of the project.
-
-A certain portion of this budget can be spent for funding community proposals.
+Certain portions of ESN distributed to development organizations can be spent for community proposals.
 
 # Proposals
 
